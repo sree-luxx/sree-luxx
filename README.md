@@ -1,4 +1,4 @@
-<center><h1> Hi there 👋 It's me, Sree Lakshmi</h1></center>
+<center><h2> Hi there 👋 It's me, Sree Lakshmi</h2></center>
 
 ### Wanna Explore about my Interests🏃‍♀️‍➡️
 
@@ -23,4 +23,4 @@
 [![Sree Lakshmi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sree-luxx&bg_color=0d0d0d&color=f3f1f3&line=4c9e65&point=f1eaea&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Contact Me Via Mail
-<img width="100" height="100" src="https://img.icons8.com/bubbles/100/apple-mail.png" alt="apple-mail"/> sreelakshmipallipita@gmail.com
+<img width="100" height="100" src="https://img.icons8.com/bubbles/100/apple-mail.png" alt="apple-mail"/>sreelakshmipallipita@gmail.com
