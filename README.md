@@ -29,4 +29,4 @@
 
 ### Contact Me Via Mail
 
-<img align="left" width="30" height="30" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGp3MTdqZDNnYmFubGU0cGQ3aXZ5MTZpM254Zjc3aHk1YmM1eTVxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wAKRqntMS2YBaujECI/giphy.gif">sreelakshmipallipita@gmail.com
+<img width="30" height="30" src="https://img.icons8.com/3d-fluency/30/mail.png" alt="mail"/>sreelakshmipallipita@gmail.com
