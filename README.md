@@ -4,8 +4,8 @@
 
  ### Wanna explore my interests🏃‍♀️‍➡️
  
-- 💻 I am a Computer Science and Business Systems Student
-- 👩‍🎓 I’m currently a Student in Rajalakshmi Institute of Technology
+- 💻 I am a Computer Science and Business Systems Student at Rajalakshmi Institute of Technology
+- 👩‍🎓 I am a Mern Stack Developer, currently learning DSA in Java
 - 🎨 Creative Thinker | 💻 Tech Explorer  
 - 📍 Based in Chennai | 🌐 Learning. Building. Growing.
   
