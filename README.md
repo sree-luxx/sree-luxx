@@ -1,11 +1,11 @@
 <center><h2> Hi there 👋 It's me, Sree Lakshmi</h2></center>
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWliZ3U4cjBsYjYzMWUzOGdiODNvMzVpY2s2czAxbXEzbG5jaHFhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8bE0EERrvXkq5S9BCa/giphy.gif">
 ### Wanna Explore about my Interests🏃‍♀️‍➡️
 
 - 💻 I am a Computer Science and Business Systems Student
 - 👩‍🎓 I’m currently a Student in Rajalakshmi Institute of Technology
 - 🎨 Creative Thinker | 💻 Tech Explorer  
-- 📍 Based in [Chennai] | 🌐 Learning. Building. Growing.
+- 📍 Based in Chennai | 🌐 Learning. Building. Growing.
   
 📫 How to reach me:
   <br/>[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sree-luxxsh/)<br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/sree_luxxsh/)<br/>[<img height="50" width="50" src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white"/>](https://www.quora.com/profile/Sree-2049)
