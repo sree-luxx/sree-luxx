@@ -1,7 +1,9 @@
 <center><h2> Hi there 👋 It's me, Sree Lakshmi</h2></center>
-<img align="right" width="370" height="290" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWliZ3U4cjBsYjYzMWUzOGdiODNvMzVpY2s2czAxbXEzbG5jaHFhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8bE0EERrvXkq5S9BCa/giphy.gif">
-### Wanna Explore about my Interests🏃‍♀️‍➡️
 
+<img align="right" width="370" height="290" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWliZ3U4cjBsYjYzMWUzOGdiODNvMzVpY2s2czAxbXEzbG5jaHFhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8bE0EERrvXkq5S9BCa/giphy.gif">
+
+ ### Wanna explore my interests🏃‍♀️‍➡️
+ 
 - 💻 I am a Computer Science and Business Systems Student
 - 👩‍🎓 I’m currently a Student in Rajalakshmi Institute of Technology
 - 🎨 Creative Thinker | 💻 Tech Explorer  
@@ -20,7 +22,11 @@
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Sreelakshmi10?theme=dark&font=Rokkitt)](https://leetcode.com/u/Sreelakshmi10/)
 
+![sree-luxx's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sree-luxx&theme=outrun&show_icons=true&hide_border=false&layout=compact)
+![sree-luxx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sree-luxx&theme=outrun&hide_border=false)
+
 [![Sree Lakshmi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sree-luxx&bg_color=0d0d0d&color=f3f1f3&line=4c9e65&point=f1eaea&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Contact Me Via Mail
-<img width="48" height="48" src="https://img.icons8.com/cute-clipart/48/apple-mail.png" alt="apple-mail"/> sreelakshmipallipita@gmail.com
+
+<img align="right" width="20" height="20" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGp3MTdqZDNnYmFubGU0cGQ3aXZ5MTZpM254Zjc3aHk1YmM1eTVxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wAKRqntMS2YBaujECI/giphy.gif">sreelakshmipallipita@gmail.com
