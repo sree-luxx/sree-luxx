@@ -1,5 +1,5 @@
 <center><h2> Hi there 👋 It's me, Sree Lakshmi</h2></center>
-
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 ### Wanna Explore about my Interests🏃‍♀️‍➡️
 
 - 💻 I am a Computer Science and Business Systems Student
@@ -22,5 +22,5 @@
 
 [![Sree Lakshmi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sree-luxx&bg_color=0d0d0d&color=f3f1f3&line=4c9e65&point=f1eaea&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## Contact Me Via Mail
+### Contact Me Via Mail
 <img width="48" height="48" src="https://img.icons8.com/cute-clipart/48/apple-mail.png" alt="apple-mail"/> sreelakshmipallipita@gmail.com
