@@ -16,7 +16,7 @@
  
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 
-### IDE tools I use
+### IDE and tools I use
 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-project-jupyter-a-nonprofit-organization-created-to-open-source-software-logo-shadow-tal-revivo.png" alt="external-project-jupyter-a-nonprofit-organization-created-to-open-source-software-logo-shadow-tal-revivo"/><img width="50" height="50" src="https://img.icons8.com/fluency/50/canva.png" alt="canva"/>
 
