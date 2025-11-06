@@ -4,7 +4,7 @@
 
 <img align="right" width="370" height="290" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWliZ3U4cjBsYjYzMWUzOGdiODNvMzVpY2s2czAxbXEzbG5jaHFhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8bE0EERrvXkq5S9BCa/giphy.gif" />
 
----
+
 
 ### 🌸 About Me  
 💻 Computer Science and Business Systems Student at **Rajalakshmi Institute of Technology**  
@@ -12,7 +12,6 @@
 🎨 Creative Thinker | 🌐 Tech Explorer | ✨ UI Enthusiast  
 📍 Based in **Chennai** — *Learning. Building. Growing.*
 
----
 
 ### 💬 Connect With Me  
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sree-luxxsh/) 
@@ -57,15 +56,16 @@
 ---
 
 ### ⚔️ Competitive Programming  
+
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Sreelakshmi10?theme=dark&font=Rokkitt)](https://leetcode.com/u/Sreelakshmi10/)
 
 ---
 
-### 📊 GitHub Highlights  
-![sree-luxxshh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sree-luxxshh&theme=radical&show_icons=true&hide_border=false&layout=compact)
-![sree-luxxshh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sree-luxxshh&theme=radical&hide_border=false)
+### 📊 GitHub Highlights
 
-[![Sree Lakshmi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sree-luxxshh&bg_color=0d0d0d&color=f3f1f3&line=00C9A7&point=f1eaea&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sree Lakshmi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sree-luxx&bg_color=0d0d0d&color=f3f1f3&line=00C9A7&point=f1eaea&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 ---
 
