@@ -5,12 +5,12 @@
 <img align="right" width="370" height="290" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWliZ3U4cjBsYjYzMWUzOGdiODNvMzVpY2s2czAxbXEzbG5jaHFhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8bE0EERrvXkq5S9BCa/giphy.gif" />
 
 
-
 ### 🌸 About Me  
 💻 Computer Science and Business Systems Student at **Rajalakshmi Institute of Technology**  
 👩‍💻 MERN Stack Developer | Currently mastering **DSA in Java**  
 🎨 Creative Thinker | 🌐 Tech Explorer | ✨ UI Enthusiast  
 📍 Based in **Chennai** — *Learning. Building. Growing.*
+
 
 
 ### 💬 Connect With Me  
