@@ -21,9 +21,7 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-project-jupyter-a-nonprofit-organization-created-to-open-source-software-logo-shadow-tal-revivo.png" alt="external-project-jupyter-a-nonprofit-organization-created-to-open-source-software-logo-shadow-tal-revivo"/><img width="50" height="50" src="https://img.icons8.com/fluency/50/canva.png" alt="canva"/>
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Sreelakshmi10?theme=dark&font=Rokkitt)](https://leetcode.com/u/Sreelakshmi10/)
-
 ![sree-luxx's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sree-luxx&theme=outrun&show_icons=true&hide_border=false&layout=compact)
-![sree-luxx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sree-luxx&theme=outrun&hide_border=false)
 
 [![Sree Lakshmi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sree-luxx&bg_color=0d0d0d&color=f3f1f3&line=4c9e65&point=f1eaea&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
