@@ -27,8 +27,10 @@
 
 [![Sree Lakshmi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sree-luxx&bg_color=0d0d0d&color=f3f1f3&line=4c9e65&point=f1eaea&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### Contact Me Via Mail
-💌 --> sreelakshmipallipita@gmail.com
+### 💌 Reach Me  
+📫 **Email:** [sreelakshmipallipita@gmail.com](mailto:sreelakshmipallipita@gmail.com)
+
+---
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=🌟+Innovate.+Code.+Inspire.+Repeat.;💻+Turning+Ideas+into+Reality!;🚀+Exploring+Tech+Horizons+Daily!"/>
