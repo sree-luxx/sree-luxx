@@ -110,7 +110,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sree-luxx&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 </p>
 
----
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=🌟+Innovate.+Code.+Inspire.+Repeat.;💻+Turning+Ideas+into+Reality!;🚀+Exploring+Tech+Horizons+Daily!" alt="Typing SVG"/>
